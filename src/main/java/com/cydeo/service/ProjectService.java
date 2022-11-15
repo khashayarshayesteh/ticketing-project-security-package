@@ -1,4 +1,4 @@
-package com.cydeo.repository.service;
+package com.cydeo.service;
 
 import com.cydeo.dto.ProjectDTO;
 import com.cydeo.dto.UserDTO;
